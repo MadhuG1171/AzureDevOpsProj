@@ -1,0 +1,9 @@
+https://docs.microsoft.com/en-us/azure/storage/common/storage-account-create
+
+https://docs.microsoft.com/en-us/azure/storage/blobs/storage-quickstart-blobs-portal
+
+https://docs.microsoft.com/en-us/azure/storage/blobs/storage-quickstart-blobs-storage-explorer
+
+https://docs.microsoft.com/en-us/azure/storage/files/storage-files-introduction
+
+https://docs.microsoft.com/en-us/azure/storage/tables/table-storage-quickstart-portal
